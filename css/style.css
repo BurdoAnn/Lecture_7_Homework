@@ -1,0 +1,148 @@
+/*header*/
+
+.container{
+	max-width: 1360px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.logo{
+	margin: 25px 534.9px 25px 95px;
+	width: 133px;
+	height: 31px;
+}
+
+.header{
+	display: flex;
+	align-items: center;
+}
+
+ul{
+	display: flex;
+	width: 500px;
+	justify-content: space-around;
+}
+
+/*bacgorund image*/
+
+.bg-img{
+ 	background-image: url("../images/bg-img.jpg");
+ 	height: 650px;
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: flex;
+	align-items: center;
+ 	justify-content: center;
+ 	flex-direction: column;
+ }
+
+
+ .discover{
+ 	font-size: 78.74px;	
+ 	color: white;
+
+ }
+
+.travel{
+ 	font-size: 18px;	
+ 	color: white;
+ 	margin-top: 36.3px;
+}
+
+/*section #2*/
+
+/*left box*/
+
+.container-2{
+	display: flex;
+	max-width: 1171.57px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 75.8px;
+	margin-left: 94.5px;
+}
+
+.left-box{
+	height: 240.56px;
+	width: 241.47px;
+	display: flex;
+	flex-direction: column;
+}
+
+.text-1-left-box{
+	font-size: 16px;
+	padding-bottom: 6.2px;
+}
+
+.text-2-left-box{
+	font-size: 26px;
+	padding-bottom: 40.1px;
+}
+
+.text-3-left-box{
+	font-size: 16px;
+}
+
+/*right box*/
+
+.right-box{
+	display: flex;
+    width: 870px;
+    height: 680px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+
+
+.box-1 {
+    width: 269.07px;
+    height: 327.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.box-2 {
+    width: 269.07px;
+    height: 327.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box-3 {
+    width: 269.07px;
+    height: 327.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.box-4 {
+    width: 269.07px;
+    height: 327.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box-5 {
+    width: 269.07px;
+    height: 327.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box-6 {
+    width: 269.07px;
+    height: 327.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
